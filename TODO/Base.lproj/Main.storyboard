@@ -39,7 +39,7 @@
                                 <attributedString key="attributedText">
                                     <fragment content="My TODO's">
                                         <attributes>
-                                            <font key="NSFont" size="30" name=".SFNS-Regular"/>
+                                            <font key="NSFont" metaFont="system" size="30"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
                                         </attributes>
                                     </fragment>
